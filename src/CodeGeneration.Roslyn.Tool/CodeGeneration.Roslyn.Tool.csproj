@@ -5,7 +5,7 @@
     <OutputType>Exe</OutputType>
     <TargetFrameworks>
       netcoreapp2.0;
-      net47;
+      net462;
     </TargetFrameworks>
     <AssemblyName>dotnet-codegen</AssemblyName>
     <Description>The dotnet code generation tool that works with the CodeGeneration.Roslyn nuget package.</Description>
