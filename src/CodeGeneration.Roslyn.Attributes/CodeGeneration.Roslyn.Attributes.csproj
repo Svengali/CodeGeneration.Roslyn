@@ -11,6 +11,7 @@
     </TargetFrameworks>
     <RootNamespace>CodeGeneration.Roslyn</RootNamespace>
     <Description>A package that offers attributes to drive code generation.</Description>
+    <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
   
 </Project>

@@ -6,6 +6,7 @@
       net462;
     </TargetFrameworks>
     <Description>The engine of source code generation used by `dotnet-codegen` tool.</Description>
+    <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
   <ItemGroup>
